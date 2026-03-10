@@ -4,16 +4,16 @@
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3498db&center=true&vCenter=true&width=435&lines=HTML+Task+Completed!;Welcome+to+my+First+Project;Creative+Developer+in+the+Making" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3498db&center=true&vCenter=true&width=435&lines=HTML+Task+Completed!;Welcome+to+my+First+Project;Creative+Developer+in+the+Making" alt="Typing SVG" />
 
 <br>
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20Places/Night%20with%20Stars.png" width="200" />
+<img src="https://cdnb.artstation.com/p/assets/images/images/019/314/083/original/pixel-jeff-night.gif" width="85%" style="border-radius: 20px;" />
 
 <br>
 
-### 🌌 Celestial River and Mountain View
-*Mountains, Stars, and Peaceful Night*
+### 🌌 The Magical Night View
+*Mountains, River, and Stars*
 
 ---
 
