@@ -8,9 +8,12 @@
 
 <br>
 
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-for-GitHub/main/GIFs/Night_Sky.gif" width="80%" style="border-radius: 15px;" />
+<img src="https://user-images.githubusercontent.com/41933169/169062330-84c66e2a-143f-42a9-959c-7cc03623f99e.gif" width="80%" style="border-radius: 15px;" />
 
 <br>
+
+### ⛰️ The Mountain & River View
+*Mountains, Stars, and Peaceful Night*
 
 ---
 
