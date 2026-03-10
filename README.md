@@ -8,11 +8,11 @@
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/41933169/169062330-84c66e2a-143f-42a9-959c-7cc03623f99e.gif" width="80%" style="border-radius: 15px;" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20Places/Night%20with%20Stars.png" width="200" />
 
 <br>
 
-### ⛰️ The Mountain & River View
+### 🌌 Celestial River and Mountain View
 *Mountains, Stars, and Peaceful Night*
 
 ---
