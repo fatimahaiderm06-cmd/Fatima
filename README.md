@@ -1,15 +1,19 @@
 <div align="center">
 
-# 🌟 Fatima's Creative Space 🌟
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3498db&center=true&vCenter=true&width=435&lines=HTML+Task+Completed!;Welcome+to+my+First+Project;Creative+Developer+in+the+Making" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:34495e,100:2c3e50&height=300&section=header&text=🌙 Fatima's Celestial Space ✨&fontSize=50&animation=fadeIn&fontAlignY=38&fontColor=ffffff" width="100%" />
 
 <br>
+<br>
 
-<p align="center">
-  <img src="https://i.ibb.co/L95S6kQ/lofi-room-view.gif" width="70%" style="border-radius: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2ecc71&center=true&vCenter=true&width=435&lines=HTML+Task+Completed!;Building+My+Dream+Project;Learning+Every+Day;Next+Stop:The+Developer+Moon!&fontAlign=center&vCenter=true" alt="Typing SVG" />
 
+<br>
+<br>
+
+### 🌌 Celestial River and Mountain View
+<img src="https://cdnb.artstation.com/p/assets/images/images/019/314/083/original/pixel-jeff-night.gif?1562863953" width="85%" style="border-radius: 20px; border: 2px solid #34495e;" />
+
+<br>
 <br>
 
 ---
@@ -19,5 +23,6 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-</div>
+<br>
 
+</div>
