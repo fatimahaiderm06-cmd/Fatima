@@ -6,7 +6,9 @@
 
 <br>
 
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHRreXJreXJreXJreXJreXJreXJreXJreXJreXJreXJreXJreZ&ep=v1_internal_gif_by_id&轉=g/m9XvLArXi7p9S/giphy.gif" width="80%" style="border-radius: 15px;" />
+<p align="center">
+  <img src="https://i.ibb.co/L95S6kQ/lofi-room-view.gif" width="70%" style="border-radius: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
+</p>
 
 <br>
 
